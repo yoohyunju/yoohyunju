@@ -9,8 +9,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <br>
   <img alt="React" src="https://img.shields.io/badge/React-2A2C2E.svg?&style=for-the-badge&logo=React&logoColor=61DBFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-7649BB.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6FA560.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
  </div>
  <br>
  <br>
